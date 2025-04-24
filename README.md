@@ -29,7 +29,6 @@
 - [Programação Orientada a Objetos em Java](https://github.com/joaovitor3105/Programacao_Orientada_Objetos_Java)
 - [Programação Orientada a Objetos em C++](https://github.com/joaovitor3105/Programacao_Orientada_Objetos_C-)
 - [Programação em Python](https://github.com/joaovitor3105/Programacao_em_Python)
-- [Algoritmos](https://github.com/joaovitor3105/Algoritmos)
 
 
 ## 📫 Contato
