@@ -3,7 +3,7 @@
 **Estudante de Engenharia de Computação no CEFET-MG**
 
 - 🌍 Divinópolis-MG
-- 📫 Como me encontrar: [LinkedIn]((https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-lobato-romualdo-974b02339/))| [E-mail](joaovitorlobatoromualdo16@gmail.com)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-lobato-romualdo-974b02339/)| [E-mail](joaovitorlobatoromualdo16@gmail.com)
   
 
 
