@@ -29,7 +29,7 @@
 - [Programação Orientada a Objetos em Java](https://github.com/joaovitor3105/Programacao_Orientada_Objetos_Java)
 - [Programação Orientada a Objetos em C++](https://github.com/joaovitor3105/Programacao_Orientada_Objetos_C-)
 - [Programação em Python](https://github.com/joaovitor3105/Programacao_em_Python)
-- [Programação em Python](https://github.com/joaovitor3105/Trabalho_Aquecimento)
+- [Trabalho de AEDS](https://github.com/joaovitor3105/Trabalho_Aquecimento)
 
 
 ## 📫 Contato
