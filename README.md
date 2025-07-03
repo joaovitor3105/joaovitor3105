@@ -23,7 +23,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
 
 
 ## 🗂️ Repositórios em Destaque
@@ -39,3 +38,6 @@
 
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-lobato-romualdo-974b02339/)
 - [E-mail](joaovitorlobatoromualdo16@gmail.com)
+
+![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
