@@ -23,6 +23,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 🗂️ Repositórios em Destaque
 
 - [Introdução a Programação](https://github.com/joaovitor3105/Introducao_Programacao)
