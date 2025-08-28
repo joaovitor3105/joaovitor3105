@@ -10,10 +10,12 @@ Me chamo João Vitor Lobato,tenho 20 anos,atualmente cursando Engenharia de Comp
 
 ## 📈 Status do GitHub
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JohnPss&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Siqueira github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnPss&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joaovitor3105&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovitor3105&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</p>
+
+
 
 ### ⚙️ Linguagens e Tecnologias
 
