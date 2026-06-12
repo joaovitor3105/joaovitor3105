@@ -13,10 +13,6 @@ Me chamo **João Vitor Lobato**, tenho 20 anos, atualmente cursando **Engenharia
 
 [![João Vitor's GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=joaovitor3105&bg_color=0d1117&color=00bfbf&line=00ffbf&point=00ffbf&area=true&hide_border=true)](https://github.com/joaovitor3105)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaovitor3105&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 
 <div align="center">  
 <a href="https://www.instagram.com/joaov_lobato_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
