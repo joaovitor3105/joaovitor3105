@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor+Lobato;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 ### Sobre mim:
-Me chamo **João Vitor Lobato**, tenho 20 anos, atualmente cursando **Engenharia de Computação no CEFET-MG** e tenho grande interesse na área de **Desenvolvimento Back-End**.  
+Me chamo **João Vitor Lobato**, tenho 21 anos, atualmente cursando **Engenharia de Computação no CEFET-MG** e tenho grande interesse na área de **Desenvolvimento Back-End**.  
 - 🌍 Divinópolis-MG  
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-lobato-romualdo-974b02339/) | [E-mail](mailto:joaovitorlobatoromualdo16@gmail.com)  
 
